@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/georgiasilvabs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=georgiasilvabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiasilvabs&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=georgiasilvabs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgiasilvabs&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,8 +18,8 @@
   <img align="center" alt="Geo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <gif align="right" alt="Geo-pic" height="140" style="border-radius:50px;"
-src="https://media.discordapp.net/attachments/999717938112249908/999744984855105636/24B863D0-33CF-4CA3-9063-9BD544750532.png">
+  <img align="right" alt="Geo-pic" height="140" style="border-radius:60px;"
+src="https://media.discordapp.net/attachments/999717938112249908/999748802225377290/download20220704154350.png">
   </div>
 
 ##
