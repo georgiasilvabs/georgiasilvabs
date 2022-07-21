@@ -1,8 +1,7 @@
-### Olá, 👋
+### Olá, seja bem-vindx 👋
 
 - 🔭 Hoje trabalho com analise de dados
 - 🌱 Estudando CSS e Python
-- 📫 Contato: georgia.silva97@gmail.com
 - 😄 Pronouns: Ela/Dela
 
 
