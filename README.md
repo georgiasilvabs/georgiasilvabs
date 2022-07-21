@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com analise de dados
 - 🌱 Estudando CSS e Python
-- 😄 Pronouns: Ela/Dela
+- 😄 Ela/Dela
 
 
 <div align="center">
