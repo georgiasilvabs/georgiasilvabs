@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindx 👋
 
 - 🔭 Hoje trabalho com análise de dados
-- 🌱 Estudando CSS, Python e JavaScript 
+- 🌱 Estudando Java, Python e JavaScript 
 - 😄 Ela/Dela
 
 
